@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Ariel. 👋
 
 <!--
 **pachacutexx/pachacutexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## About me:
+
+- 🔭 I’m currently working on showing my programming skills with a focus on finance and sustainability.
+- 🌱 I’m currently learning ML, sustainability, and quantitative finance.
+- 👯 I’m looking to collaborate on projects that aim to tackle problems of green finance.
+- 🤔 I’m looking for help with technical understanding of sustainability issues.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like cats, rap, and e-sports.
+
+## Programming languages:
+
+
+
+
