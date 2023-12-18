@@ -12,7 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats, rap, and e-sports.
 
-## Programming languages:
+## Programming skills:
+
+![Python](/images/icons8-python-48.png) ![MySQL](/images/icons8-mysql-48.png)
 
 
 
